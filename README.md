@@ -1,21 +1,19 @@
 # Medical Scale IMC: Arduino
-## Index
 
-	1. Descripción
-	2. Referencias
+- [Introducción](#introducción)
+- [Enlaces de interés](#enlaces-de-interés)
 
-## Contenido
 
-	1. Descripción
+## Introducción
 
 
 Báscula médica para el cálculo de IMC, con placa de control arduino, LCD y sensor infrarrojo SHARP para media de alturas.
 
-**+info**
 
-[Documentación](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
+Para más información consulte la[memoria del proyecto](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
 
 
-	2. Referencias
+## Enlaces de interés
 
-***Proximamente...***
+
+[Documentación Slideshare](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
