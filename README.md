@@ -1,4 +1,5 @@
 # Medical Scale IMC: Arduino
+[![Build Status](https://travis-ci.org/davidvelascogarcia/Medical-Scale-IMC-Arduino.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/Medical-Scale-IMC-Arduino)
 
 - [Introducción](#introducción)
 - [Enlaces de interés](#enlaces-de-interés)
