@@ -1,20 +1,20 @@
 # Medical Scale IMC: Arduino
-[![Build Status](https://travis-ci.org/davidvelascogarcia/Medical-Scale-IMC-Arduino.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/Medical-Scale-IMC-Arduino)
+[![Build Status](https://travis-ci.org/davidvelascogarcia/medicalScaleIMC.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/medicalScaleIMC)
 
 - [Introducción](#introducción)
+- [Listado de programas](#listado-de-programas)
 - [Enlaces de interés](#enlaces-de-interés)
 
 
 ## Introducción
 
+`medicalScaleIMC`, implementación de báscula médica para el cálculo de `IMC`, con placa de control `arduino`, LCD y sensor infrarrojo `SHARP` para media de alturas.
+Adjunta documentación en [tesis](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc).
 
-Báscula médica para el cálculo de IMC, con placa de control arduino, LCD y sensor infrarrojo SHARP para media de alturas.
+## Listado de programas
 
-
-Para más información consulte la [memoria del proyecto](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
-
+Se adjunta el listado de aplicaciones implementadas en [./programs](./programs).
 
 ## Enlaces de interés
 
-
-[Documentación Slideshare](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
+* [docs: Slideshare](https://es.slideshare.net/DavidVelascoGarcia/bscula-mdica-de-clculo-del-imc)
